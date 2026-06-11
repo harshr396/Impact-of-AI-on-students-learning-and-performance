@@ -34,7 +34,13 @@ Built an interactive Tableau dashboard to analyze the impact of Generative AI on
 
 ## <h2>Dashboard Preview</h2>
 
-![Dashboard Preview](dashboard/traditional-study-hours-genai-usage.png)
+![Dashboard Preview](traditional-study-hours-by-genai-usage-level.png)
+
+## Interactive Dashboard
+
+View the dashboard here:
+
+https://public.tableau.com/views/Book1_17811988410530/raditionalStudyHoursbyGenAIUsageLevel?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Key Findings
 
