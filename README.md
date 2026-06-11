@@ -1,7 +1,7 @@
 # Impact-of-AI-on-student's learning and performance
 
 ## Data Pipeline
-
+'''
 CSV Dataset
     ↓
 Google Drive
@@ -11,7 +11,7 @@ Google Sheets
 Tableau Public (Google Drive Connector)
     ↓
 Interactive Dashboard
-
+'''
 ## Overview
 Built an interactive Tableau dashboard to analyze the impact of Generative AI on student learning outcomes. The dataset was hosted on Google Sheets and connected to Tableau Public through the Google Drive Connector, enabling cloud-based data access and dashboard development.
 
